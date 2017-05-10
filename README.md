@@ -18,3 +18,6 @@ TODO:Arturo Salguero Vera
 Licencia
 
 TODO: Agregar Licencia
+
+Esta Aplicacion permiter publicar estado , un link y obtener los estados de una persona de acuerdo a la documentacion 
+facebook developer.
